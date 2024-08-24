@@ -152,4 +152,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries, please contact via [**Email**](ennkay161@gmail.com).
+For any inquiries, please contact via [**Email**](mailto:ennkay161@gmail.com).
