@@ -87,12 +87,18 @@ This project is a backend service for a small Twitter-like application built usi
 
 4. Configure Google OAuth Concent Screen. [**Read More**](https://developers.google.com/workspace/guides/configure-oauth-consent). Also don't forget to Add Test users in order to login using Google.
 
-5. **Start the Application**:
+5. **Build the Application**:
+    ```bash
+      npm run build
+      npm run start:prod
+    ```
+
+6. **Start the Application in Development**:
    ```bash
-   npm run start:dev
+    npm run start:dev
    ```
 
-6. **Access API Documentation**:
+7. **Access API Documentation**:
    Open your browser and navigate to `http://localhost:3000/api` to view the Swagger documentation.
 
 ## Project Structure
